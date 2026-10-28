@@ -20,6 +20,7 @@ I've owned and operated chiropractic clinics in Brazil and Peru. Since 2025 I've
 - Portfolio: **[backmypractice.com/miguel](https://backmypractice.com/miguel/)**
 
 Languages: Portuguese (native) · Spanish (fluent) · English (intermediate, improving)
+
 Open to relocate to the United States.
 
 > Most of my code is in private repositories because it runs real clinics. The portfolio page has the full story.
