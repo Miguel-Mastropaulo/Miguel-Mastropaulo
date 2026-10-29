@@ -1,26 +1,28 @@
 # Hi, I'm Miguel 👋
 
-**Chiropractor with 20+ years in practice, now building the AI and software that runs a clinic.**
+**AI Architect for Chiropractic Clinics.** Chiropractor for 20+ years, I design and implement AI around how each clinic, franchise or software team actually operates.
 
-I've owned and operated chiropractic clinics in Brazil and Peru. Since 2025 I've been turning that experience into production software: multi-tenant clinic management, AI agents that work with real clinic data, and patient programs with clinical rules engines.
+I've owned and run chiropractic clinics in Brazil and Peru. Today I design clinic software and AI agents that work with real clinic data, and the systems that bring patients in.
 
-## What I build
+## What I deliver
 
-- **Clinic management platform (SaaS):** multi-tenant, React + TypeScript + Supabase (Postgres with row-level security), real-time updates, edge rendering for SEO, bilingual UI.
-- **AI agents for clinics:** an MCP server that lets Claude work with clinic data through scoped, permissioned tools.
-- **Patient programs:** a guided back-pain program in production, with triage, a clinical rules engine, payment webhooks and funnel analytics.
-- **Content operations:** tooling to run a YouTube education channel, with AI-assisted community replies.
+- **AI agents on clinic data:** an MCP server with 45+ tools for scheduling, patients, finance and content, with clinic-level isolation, audit trails and undo.
+- **Clinic operations platforms:** multi-tenant software (React, TypeScript, Supabase, Postgres with row-level security) covering scheduling, packages, attendance, finance and the patient journey.
+- **Patient acquisition:** Meta Ads tied to real leads, Conversions API tracking, landing pages with funnel analytics, YouTube and SEO content.
+- **Processes and KPIs:** a diagnostic first, then implementation by priority, tracked with real indicators.
 
 ## Stack
 
-`TypeScript` `React` `Next.js` `Supabase` `PostgreSQL` `Deno / Edge Functions` `Cloudflare Workers` `MCP` `Claude`
+`Claude` `Claude Code` `MCP` `TypeScript` `React` `Next.js` `Supabase` `PostgreSQL` `Edge Functions` `Cloudflare Workers` `Meta Ads` `Conversions API`
 
 ## Find me
 
-- Portfolio: **[backmypractice.com/miguel](https://backmypractice.com/miguel/)**
+- Portfolio: **[backmypractice.com/miguel](https://www.backmypractice.com/miguel/)**
+- LinkedIn: **[linkedin.com/in/miguel-mastropaulo](https://www.linkedin.com/in/miguel-mastropaulo/)**
+- YouTube: **[@vertebralmente](https://www.youtube.com/@vertebralmente)**
 
 Languages: Portuguese (native) · Spanish (fluent) · English (intermediate, improving)
 
-Open to relocate to the United States.
+Open to relocating to the United States with employer sponsorship.
 
-> Most of my code is in private repositories because it runs real clinics. The portfolio page has the full story.
+> My code runs real clinics, so most of it lives in private repositories. I'm glad to walk through the architecture and a live demo.
