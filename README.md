@@ -1,4 +1,4 @@
-# Hi, I'm Miguel 👋
+# Hi, I'm Miguel
 
 **AI Architect for Chiropractic Clinics.** Chiropractor for 20+ years, I design and implement AI around how each clinic, franchise or software team actually operates.
 
